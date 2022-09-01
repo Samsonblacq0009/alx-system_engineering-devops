@@ -1,1 +1,1 @@
-New owner readme
+Empty readme

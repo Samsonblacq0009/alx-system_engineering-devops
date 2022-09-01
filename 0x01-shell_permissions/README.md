@@ -1,1 +1,1 @@
-Directories_permissions readme
+Directory_permissions readme

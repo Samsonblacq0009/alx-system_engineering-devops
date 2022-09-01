@@ -1,2 +1,2 @@
-#!/bin/bash > 1-listist
-cd >> 1-listit
+#!/bin/bash
+cd

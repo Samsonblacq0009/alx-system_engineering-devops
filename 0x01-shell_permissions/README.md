@@ -1,1 +1,1 @@
-Multiple permissions readme
+Everybody readme

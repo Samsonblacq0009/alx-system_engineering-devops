@@ -1,1 +1,1 @@
-John_Doe readme
+Mirror_permissions readme

@@ -1,1 +1,1 @@
-Mirror_permissions readme
+Directories_permissions readme

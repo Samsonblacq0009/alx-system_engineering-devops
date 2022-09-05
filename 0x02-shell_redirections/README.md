@@ -1,1 +1,1 @@
-Gif readme
+Acrostic readme

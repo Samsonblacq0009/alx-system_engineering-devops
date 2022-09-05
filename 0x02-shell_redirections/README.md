@@ -1,1 +1,1 @@
-Hate bins readme
+Letters readme

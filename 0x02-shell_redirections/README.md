@@ -1,1 +1,1 @@
-Save current readme
+Duplicate readme

@@ -1,0 +1,2 @@
+#!/bin/bash
+tall -n 1 1acta >> iacta

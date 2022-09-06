@@ -1,1 +1,1 @@
-Directories readme
+Letters readme
